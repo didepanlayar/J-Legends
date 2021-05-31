@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">J Legends</string>
+    <string name="legends_name">Legends Name</string>
+    <string name="legends_position">Legends Position</string>
+    <string name="legends_detail">Legends Information</string>
+    <string name="legends_overview">Legends Overview</string>
+    <string name="content_title">
+        Pertandingan\n
+        Tahun\n
+        Tinggi\n
+        Posisi
+    </string>
+    <string name="content_detail">Content Detail</string>
+    <string name="content_overview">Content Overview</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Albin Maulana Zaneta</string>
+    <string name="profile_email">AlbinMaulana@hotmail.com</string>
+</resources>
